@@ -1,7 +1,7 @@
 export function useCrisp() {
   const initCrisp = () => {
     window.$crisp = [];
-    window.CRISP_WEBSITE_ID = "1ef80772-a00c-483e-b75a-ff974b7ceef3";
+    window.CRISP_WEBSITE_ID = ""; // Add Your Crisp ID
 
     const d = document;
     const s = d.createElement("script");
