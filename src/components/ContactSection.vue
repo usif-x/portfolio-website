@@ -176,8 +176,8 @@ const socialLinks = [
 ]
 
 // Add your Telegram bot token and chat ID
-const TELEGRAM_BOT_TOKEN = '6572429260:AAEsMdfIxDA8_paJNSpQcj6-mDdytiK-dG8'
-const TELEGRAM_CHAT_ID = '5356545108'
+const TELEGRAM_BOT_TOKEN = ''
+const TELEGRAM_CHAT_ID = ''
 
 const handleSubmit = async () => {
   // Reset errors
